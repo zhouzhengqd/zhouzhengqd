@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 - :seedling: I’m learning ![badge_elixir] & ![badge_next-js].
 - :books: I want to learn ![badge_figma] later.
 - :speech_balloon: Ask me about **How to use Github Pages to host a personal blog**. -->
-# Hi there! 👋
-
 <a href="https://github.com/zhouzhengqd">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhouzhengqd&show_icons=true&hide_border=true&include_all_commits=true&disable_animations=true&theme=one_dark_pro">
@@ -33,7 +31,7 @@ Here are some ideas to get you started:
   </picture>
 </a>
 
-I’m **Zheng Zhou (Dylan)**, currently pursuing a Ph.D. in **Electronic Engineering** at **Beihang University (BUAA)**.
+Hi there! 👋. I’m **Zheng Zhou (Dylan)**, currently pursuing a Ph.D. in **Electronic Engineering** at **Beihang University (BUAA)**.
 
 My research focuses on improving the **sustainability**, **reliability**, and **efficiency** of machine learning through two main areas:
 
@@ -58,26 +56,26 @@ You can find my **[Personal Homepage](https://zhouzhengqd.github.io/)** and **[C
 ### 🚀 Projects 
 #### 1. **BACON: Bayesian Optimization for Convergence in Neural Training**
 
- <div style="float: right; width: 150px;">
-       <img src="/img/bacon.png" width="150" />
-   </div>
-
    - **[Project Page](https://zhouzhengqd.github.io/bacon.page/)** | **[Paper](https://arxiv.org/pdf/2406.01112)** | **[Code](https://github.com/zhouzhengqd/BACON)**
 
-     **BACON** is a **Bayesian optimization-based framework** that enhances dataset distillation by providing a solid theoretical foundation, improving **performance**, **efficiency**, and **reducing computational costs**. 
+     **BACON** is a **Bayesian optimization-based framework** that enhances dataset distillation by providing a solid theoretical foundation, improving **performance**, **efficiency**, and **reducing computational costs**.
+
+      <div style="float: right; width: 150px;">
+       <img src="/img/bacon.png" width="150" />
+   </div> 
 
 ![GitHub stars](https://img.shields.io/github/stars/zhouzhengqd/BACON?style=social)&nbsp;&nbsp;![GitHub forks](https://img.shields.io/github/forks/zhouzhengqd/BACON?style=social)&nbsp;&nbsp;![Contributors](https://img.shields.io/github/contributors/zhouzhengqd/BACON)&nbsp;&nbsp;![Issues](https://img.shields.io/github/issues/zhouzhengqd/BACON)&nbsp;&nbsp;![Pull Requests](https://img.shields.io/github/issues-pr/zhouzhengqd/BACON)
 
 
 #### 2. **BEARD: Benchmark for Evaluating Adversarial Robustness in Dataset Distillation**
 
-<div style="float: right; width: 110px;">
-   <img src="/img/beard.png" width="80" />
-</div>
-
 - **[Project Page](https://beard-leaderboard.github.io/)** ｜ **[Paper](https://arxiv.org/pdf/2411.09265)** ｜ **[Code](https://github.com/zhouzhengqd/BEARD)**
   
   **BEARD** is a unified benchmark for evaluating the **adversarial robustness** of dataset distillation methods, offering key metrics like **Robustness Ratio (RR)**, **Attack Efficiency Ratio (AE)**, and **Comprehensive Robustness-Efficiency Index (CREI)** across multiple adversarial attacks and datasets.
+  
+  <div style="float: right; width: 110px;">
+   <img src="/img/beard.png" width="80" />
+</div>
 
   ![GitHub stars](https://img.shields.io/github/stars/zhouzhengqd/BEARD?style=social)&nbsp;&nbsp;![GitHub forks](https://img.shields.io/github/forks/zhouzhengqd/BEARD?style=social)&nbsp;&nbsp;![Contributors](https://img.shields.io/github/contributors/zhouzhengqd/BEARD)&nbsp;&nbsp;![Issues](https://img.shields.io/github/issues/zhouzhengqd/BEARD)&nbsp;&nbsp;![Pull Requests](https://img.shields.io/github/issues-pr/zhouzhengqd/BEARD)
 
