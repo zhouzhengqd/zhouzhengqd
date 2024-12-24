@@ -57,7 +57,7 @@ You can find my **[Personal Homepage](https://zhouzhengqd.github.io/)** and **[C
 ### 🚀 Projects 
 
 #### 1. **BACON: Bayesian Optimization for Convergence in Neural Training**
-<div style="display: flex; align-items: center; justify-content: flex-start;">
+<div style="display: flex; align-items: center;">
    <img src="/img/bacon.png" width="150" style="margin-right: 15px;" />
    <div>
      <p><strong>Project Page:</strong> <a href="https://zhouzhengqd.github.io/bacon.page/">https://zhouzhengqd.github.io/bacon.page/</a></p>
@@ -70,10 +70,8 @@ You can find my **[Personal Homepage](https://zhouzhengqd.github.io/)** and **[C
 
 ![GitHub stars](https://img.shields.io/github/stars/zhouzhengqd/BACON?style=social)&nbsp;&nbsp;![GitHub forks](https://img.shields.io/github/forks/zhouzhengqd/BACON?style=social)&nbsp;&nbsp;![Contributors](https://img.shields.io/github/contributors/zhouzhengqd/BACON)&nbsp;&nbsp;![Issues](https://img.shields.io/github/issues/zhouzhengqd/BACON)&nbsp;&nbsp;![Pull Requests](https://img.shields.io/github/issues-pr/zhouzhengqd/BACON)
 
-
 #### 2. **BEARD: Benchmark for Evaluating Adversarial Robustness in Dataset Distillation**
-
-<div style="display: flex; align-items: center; justify-content: flex-start;">
+<div style="display: flex; align-items: center;">
    <img src="/img/beard.png" width="80" style="margin-right: 15px;" />
    <div>
      <p><strong>Project Page:</strong> <a href="https://beard-leaderboard.github.io/">https://beard-leaderboard.github.io/</a></p>
