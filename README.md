@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - :books: I want to learn ![badge_figma] later.
 - :speech_balloon: Ask me about **How to use Github Pages to host a personal blog**. -->
 
+# Hi there! 👋
 <a href="https://github.com/zhouzhengqd">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhouzhengqd&show_icons=true&hide_border=true&include_all_commits=true&disable_animations=true&theme=one_dark_pro">
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
   </picture>
 </a>
 
-Hi there! 👋. I’m **Zheng Zhou (Dylan)**, currently pursuing a Ph.D. in **Electronic Engineering** at **Beihang University (BUAA)**.
+I’m **Zheng Zhou (Dylan)**, currently pursuing a Ph.D. in **Electronic Engineering** at **Beihang University (BUAA)**.
 
 My research focuses on improving the **sustainability**, **reliability**, and **efficiency** of machine learning through two main areas:
 
