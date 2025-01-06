@@ -56,7 +56,7 @@ You can find my **[Personal Homepage](https://zhouzhengqd.github.io/)** and **[C
 </picture>
 
 ### 🚀 Projects 
-#### 1. **BACON: Bayesian Optimization for Convergence in Neural Training**
+#### 1. **BACON: Bayesian Optimal Condensation Framework for Dataset Distillation**
 
    - **[Project Page](https://zhouzhengqd.github.io/bacon.page/)** | **[Paper](https://arxiv.org/pdf/2406.01112)** | **[Code](https://github.com/zhouzhengqd/BACON)**
 
@@ -65,7 +65,7 @@ You can find my **[Personal Homepage](https://zhouzhengqd.github.io/)** and **[C
       ![GitHub stars](https://img.shields.io/github/stars/zhouzhengqd/BACON?style=social)&nbsp;&nbsp;![GitHub forks](https://img.shields.io/github/forks/zhouzhengqd/BACON?style=social)&nbsp;&nbsp;![Contributors](https://img.shields.io/github/contributors/zhouzhengqd/BACON)&nbsp;&nbsp;![Issues](https://img.shields.io/github/issues/zhouzhengqd/BACON)&nbsp;&nbsp;![Pull Requests](https://img.shields.io/github/issues-pr/zhouzhengqd/BACON)
 
 
-#### 2. **BEARD: Benchmark for Evaluating Adversarial Robustness in Dataset Distillation**
+#### 2. **BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation**
 
 - **[Project Page](https://beard-leaderboard.github.io/)** ｜ **[Paper](https://arxiv.org/pdf/2411.09265)** ｜ **[Code](https://github.com/zhouzhengqd/BEARD)**
   
