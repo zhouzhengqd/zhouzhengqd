@@ -40,7 +40,7 @@ My research focuses on improving the **sustainability**, **reliability**, and **
 - **Robustness**: Enhancing model resilience against adversarial examples and security threats.
 - **Efficiency**: Optimizing learning efficiency with techniques like dataset distillation.
 
-You can find my **[Personal Homepage](https://zhouzhengqd.github.io/)** and **[Curriculum Vitae (CV)](https://zhouzhengqd.github.io/)**.
+You can find my **[Personal Homepage](https://zhouzhengqd.github.io/)** and **[Curriculum Vitae (CV)](https://zhouzhengqd.github.io/files/cv_Dyaln.pdf)**.
 
 
 ### :microscope: Tech && Tools Preference
