@@ -58,7 +58,7 @@ You can find my **[Personal Homepage](https://zhouzhengqd.github.io/)** and **[C
 ### 🚀 Projects 
 #### 1. **ROME is Forged in Adversity: Robust Distilled Datasets via Information Bottleneck (ICML 2025)**
 
-- **[Project Page]([https://beard-leaderboard.github.io/](https://zhouzhengqd.github.io/rome.page/))** ｜ **[Paper (Comming soon)](https://arxiv.org/)** ｜ **[Code](https://github.com/zhouzhengqd/ROME)**
+- **[Project Page](https://zhouzhengqd.github.io/rome.page/)** ｜ **[Paper (Comming soon)](https://arxiv.org/)** ｜ **[Code](https://github.com/zhouzhengqd/ROME)**
   
   **ROME** is a method that enhances the **adversarial robustness** of **dataset distillation** by leveraging the **information bottleneck** principle, leading to significant improvements in robustness against both white-box and black-box attacks.
 
