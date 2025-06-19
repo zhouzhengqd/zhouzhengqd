@@ -56,14 +56,13 @@ You can find my **[Personal Homepage](https://zhouzhengqd.github.io/)** and **[C
 </picture>
 
 ### 🚀 Projects 
-#### 1. **BACON: Bayesian Optimal Condensation Framework for Dataset Distillation**
+#### 1. **ROME is Forged in Adversity: Robust Distilled Datasets via Information Bottleneck (ICML 2025)**
 
-   - **[Project Page](https://zhouzhengqd.github.io/bacon.page/)** | **[Paper](https://arxiv.org/pdf/2406.01112)** | **[Code](https://github.com/zhouzhengqd/BACON)**
+- **[Project Page]([https://beard-leaderboard.github.io/](https://zhouzhengqd.github.io/rome.page/))** ｜ **[Paper (Comming soon)](https://arxiv.org/)** ｜ **[Code](https://github.com/zhouzhengqd/ROME)**
+  
+  **ROME** is a method that enhances the **adversarial robustness** of **dataset distillation** by leveraging the **information bottleneck** principle, leading to significant improvements in robustness against both white-box and black-box attacks.
 
-     **BACON** is a **Bayesian optimization-based framework** that enhances dataset distillation by providing a solid theoretical foundation, improving **performance**, **efficiency**, and **reducing computational costs**.
-
-      ![GitHub stars](https://img.shields.io/github/stars/zhouzhengqd/BACON?style=social)&nbsp;&nbsp;![GitHub forks](https://img.shields.io/github/forks/zhouzhengqd/BACON?style=social)&nbsp;&nbsp;![Contributors](https://img.shields.io/github/contributors/zhouzhengqd/BACON)&nbsp;&nbsp;![Issues](https://img.shields.io/github/issues/zhouzhengqd/BACON)&nbsp;&nbsp;![Pull Requests](https://img.shields.io/github/issues-pr/zhouzhengqd/BACON)
-
+  ![GitHub stars](https://img.shields.io/github/stars/zhouzhengqd/ROME?style=social)&nbsp;&nbsp;![GitHub forks](https://img.shields.io/github/forks/zhouzhengqd/ROME?style=social)&nbsp;&nbsp;![Contributors](https://img.shields.io/github/contributors/zhouzhengqd/ROME)&nbsp;&nbsp;![Issues](https://img.shields.io/github/issues/zhouzhengqd/ROME)&nbsp;&nbsp;![Pull Requests](https://img.shields.io/github/issues-pr/zhouzhengqd/ROME)
 
 #### 2. **BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation**
 
@@ -72,6 +71,14 @@ You can find my **[Personal Homepage](https://zhouzhengqd.github.io/)** and **[C
   **BEARD** is a unified benchmark for evaluating the **adversarial robustness** of dataset distillation methods, offering key metrics like **Robustness Ratio (RR)**, **Attack Efficiency Ratio (AE)**, and **Comprehensive Robustness-Efficiency Index (CREI)** across multiple adversarial attacks and datasets.
 
   ![GitHub stars](https://img.shields.io/github/stars/zhouzhengqd/BEARD?style=social)&nbsp;&nbsp;![GitHub forks](https://img.shields.io/github/forks/zhouzhengqd/BEARD?style=social)&nbsp;&nbsp;![Contributors](https://img.shields.io/github/contributors/zhouzhengqd/BEARD)&nbsp;&nbsp;![Issues](https://img.shields.io/github/issues/zhouzhengqd/BEARD)&nbsp;&nbsp;![Pull Requests](https://img.shields.io/github/issues-pr/zhouzhengqd/BEARD)
+
+#### 3. **BACON: Bayesian Optimal Condensation Framework for Dataset Distillation**
+
+   - **[Project Page](https://zhouzhengqd.github.io/bacon.page/)** | **[Paper](https://arxiv.org/pdf/2406.01112)** | **[Code](https://github.com/zhouzhengqd/BACON)**
+
+     **BACON** is a **Bayesian optimization-based framework** that enhances dataset distillation by providing a solid theoretical foundation, improving **performance**, **efficiency**, and **reducing computational costs**.
+
+      ![GitHub stars](https://img.shields.io/github/stars/zhouzhengqd/BACON?style=social)&nbsp;&nbsp;![GitHub forks](https://img.shields.io/github/forks/zhouzhengqd/BACON?style=social)&nbsp;&nbsp;![Contributors](https://img.shields.io/github/contributors/zhouzhengqd/BACON)&nbsp;&nbsp;![Issues](https://img.shields.io/github/issues/zhouzhengqd/BACON)&nbsp;&nbsp;![Pull Requests](https://img.shields.io/github/issues-pr/zhouzhengqd/BACON)
 
 ---
 
